@@ -1,0 +1,8 @@
+{
+    "final_estimator__C": 0.1,
+    "knn__n_neighbors": 3,
+    "rf__max_depth": null,
+    "rf__n_estimators": 50,
+    "svm__C": 10,
+    "svm__gamma": "scale"
+}
